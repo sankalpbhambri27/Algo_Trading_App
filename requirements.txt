@@ -7,7 +7,7 @@ quantstats==0.0.62
 ipykernel
 pandas_ta
 pandas_datareader
-Backtesting
+backtesting==0.3.2
 nbformat==4.2.0
 tqdm
 plotly
