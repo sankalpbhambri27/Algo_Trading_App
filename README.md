@@ -1,19 +1,11 @@
 # Algo_Trading_App
+Real-Time Trading Bot integrating MT5 and Python.
 
-
-- Building your own backtester in python.
-- Before you backtest - use this protocol!
-- Best Practices in Research for Quantitative Equity Strategies
-- What Not to Do!
-- The Importance of Causality in your Experiment Design
-- Detecting False Investment Strategies
-- Bonus Lectures
+MT5 Python API is used to extract Financial Data from the backend broker. We used order_send, positions_total, and positions_get functions.
 
 ## Repository Contents
 
-This repository includes the Jupyter Notebooks used in the course:
-
-- **YFinance_Tutorial**: An introduction to pulling free data from Yahoo Finance, using the yfinance library.
+This repository includes the Jupyter Notebooks
 
 ## Getting Started
 
