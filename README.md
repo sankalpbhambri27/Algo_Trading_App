@@ -1,6 +1,16 @@
 # Algo_Trading_App
 Real-Time Trading Bot integrating MT5 and Python.
 
+Strategy to buy/sell stocks so as to maximize the profit
+
+1)close price of current candle is greater than high price of previous candle then its a long condition 
+2) close price of current candle is less than low price of previous candle then its a short condition
+
+Strategy to close previously open trade
+1)close price of current candle is less than close price of previous candle then its time to close long condition
+2)close price of current candle is greater than close price of previous candle then its time to close short condition
+
+
 MT5 Python API is used to extract Financial Data from the backend broker. We used order_send, positions_total, and positions_get functions.
 
 ## Repository Contents
