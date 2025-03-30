@@ -13,6 +13,12 @@ Strategy to close previously open trade
 
 MT5 Python API is used to extract Financial Data from the backend broker. We used order_send, positions_total, and positions_get functions.
 
+"candle" on the chart represents a specific period (e.g., a day, an hour, a minute), showing the opening, closing, highest, and lowest prices for stock during that period. 
+
+"long" position means buying an asset with the expectation that its price will rise, so you can sell it later for a profit.
+
+"short condition" or "short position" refers to a strategy where a trader borrows a security (like a stock) and sells it, hoping to buy it back later at a lower price to profit from the price decline. 
+
 ## Repository Contents
 
 This repository includes the Jupyter Notebooks
