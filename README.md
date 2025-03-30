@@ -7,6 +7,7 @@ Strategy to buy/sell stocks so as to maximize the profit
 2) close price of current candle is less than low price of previous candle then its a short condition
 
 Strategy to close previously open trade
+
 1)close price of current candle is less than close price of previous candle then its time to close long condition
 2)close price of current candle is greater than close price of previous candle then its time to close short condition
 
